@@ -5,7 +5,7 @@ Summary:	simple python app
 
 Group:		Applications/System
 License:	MIT
-URL:		http://ya.ru
+URL:		http://null.com
 Source0:	app-ptest
 
 %description
